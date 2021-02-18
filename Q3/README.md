@@ -20,6 +20,6 @@ json-server <nama_file>
 json-server db.json
 ```
 
-#### FYI :
-#### Gunakan 2 Bash untuk menjalankan
-#### Json-server dan Vue js Aplikasinya
+###### FYI :
+* Gunakan 2 Bash untuk menjalankan
+*Json-server dan Vue js Aplikasinya
