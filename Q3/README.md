@@ -1,6 +1,6 @@
 # Q3 - VUE JS
 
-## Project setup ( Install Node Modules )
+### Project setup ( Install Node Modules )
 ```
 yarn install
 ```
@@ -15,11 +15,11 @@ yarn serve
 json-server <nama_file>
 ```
 
-##### Contoh => karena nama file json db.json
+#### Contoh => karena nama file json db.json
 ``` 
 json-server db.json
 ```
 
-## FYI :
-## Gunakan 2 Bash untuk menjalankan
-## Json-server dan Vue js Aplikasinya
+#### FYI :
+#### Gunakan 2 Bash untuk menjalankan
+#### Json-server dan Vue js Aplikasinya
