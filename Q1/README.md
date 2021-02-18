@@ -25,8 +25,8 @@ go run <namaFile>
 go run main.go
 ```
 
-### Fyi - versi golang author
+### Fyi - versi golang 
 
 ```
-	go1.15.8
+go1.15.8
 ```
