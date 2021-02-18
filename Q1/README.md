@@ -25,6 +25,22 @@ go run <namaFile>
 go run main.go
 ```
 
+### Input saat Running Program Golang
+
+Untuk waktu input di Golang, usahakan tidak memakai backspace,
+kelau bisa di ganti dengan underscore ( _ ) atau dengan ( - ),
+
+
+### Contoh Input Program
+
+```
+*Masukkan Nama Restaurant
+*Ramen_Ichiraku
+
+*Masukkan Nama Kasir
+*Hafid_Gunawan
+```
+
 ### Fyi - versi golang 
 
 ```
